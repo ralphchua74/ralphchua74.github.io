@@ -1,0 +1,86 @@
+h1 {
+    color: #17BEBB;
+}
+
+h3 {
+    color: #EF3E36;
+}
+
+h5 {
+    color: #2E282A;
+    font-size: 1em
+}
+
+h6 {
+    color: #4E6E5D;
+}
+
+body {
+    background-color: #212121;
+}
+
+.profile-pic {
+    margin-top:4em;
+    margin-left:0em;
+    border-radius: 90%;
+}
+
+#leftcolumn {
+    background-color: #212121;
+    height: 100vh;
+    padding-left: -em;
+    margin-right: 1em;
+}
+
+ul {
+    padding-top: 2em;
+    list-style: none;
+}
+
+a {
+    color: #E0E0E0;
+}
+
+a:hover {
+    color:#17BEBB;
+}
+
+/***** Main Column *****/
+
+
+#rightcolumn {
+    padding-left:15em;
+    
+}
+
+#main-info {
+    background-color: #F5DEB3;
+    padding-top:1em;
+    padding-left: 1em;
+}
+
+#education {
+    margin-left: 0em;
+}
+
+#education {
+    background-color: #ead4ab;
+    padding-left: 1em;
+}
+
+#cocurriculars {
+    background-color: #dfcaa3;
+    padding-left: 1em;
+}
+
+#research {
+    background-color: #d4c09b;
+    padding-left: 1em;
+}
+
+#background {
+    background-color: #c9b693;
+    padding-left: 1em;
+}
+
+
